@@ -1,4 +1,4 @@
-## About Laravel
+### About Laravel
 - Chạy xampp
 - Tạo database tên: api_project
 - Chạy CMD
